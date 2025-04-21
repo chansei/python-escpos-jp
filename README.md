@@ -1,4 +1,4 @@
-[python-escpos japenese wrapper](https://github.com/iakyi/python-escpos-jp)よりfolk
+[python-escpos japenese wrapper](https://github.com/iakyi/python-escpos-jp)よりfork
 
 # CHANGELOG
 
@@ -18,4 +18,4 @@ p.cut()
 ```
 
 - USB接続のTM-T88Vで動作確認(Windows環境)
-- Folk元にて`Network`クラスでも動作確認済み
+- fork元にて`Network`クラスでも動作確認済み
